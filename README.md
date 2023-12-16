@@ -1,6 +1,6 @@
 # Play as Kairi v0.2.0
 Play as Kairi in Kingdom Hearts 2 Final Mix. Currently PC only.
-Crashes are imminent due to an MDLX Editor bug. Play with caution and save often.
+As always, play with caution and save often.
 
 # Features
 • Play as Kairi.
