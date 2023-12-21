@@ -17,11 +17,24 @@ As always, play with caution and save often!
 
 
 # Known Issues
-**As of v0.2.0:**
+**As of v0.2.2:**
 
 • Kairi's hands are very large. Reasons for this are unknown.
 
 • Kairi does NOT have a talking face for cutscenes. She will stare blankly until the proper texture is made.
+
+• Some worlds use a different HUD sprite layout. These worlds currently have the visual glitch: *Space Paranoids*, *Christmas Town*.
+
+# To Do:
+• Fix the HUD glitches in *Space Paranoids* and *Christmas Town*
+
+• Create custom outfits for *Halloween Town* and *Christmas Town* based off of Sora's own outfits.
+
+• Use the Kairi model for drive forms.
+
+• Create a Lioness Kairi.
+
+• Create custom outfits for all of the drive forms and the subsequent worlds' drive forms.
 
 
 # NOTES
